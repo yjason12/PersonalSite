@@ -1,0 +1,107 @@
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.middle-container{
+    padding-top: 100px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    color: #40514E;
+    padding: 20px 0 10px;
+}
+
+.footer-link{
+    color: #40514E;
+}
+
+body{
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+}
+
+    
+
+h1{
+    font-size: 4rem;
+    margin-top:0;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+
+}
+
+a{
+    color: #66BFBF;
+}
+
+#tabletennis{
+    position: absolute;
+    width: 300px;
+    left: 100px;
+    top: 150px;
+    
+
+}
+
+#filmcam{
+    position: absolute;
+    width: 300px;
+    right: 100px;
+    top: 150px;
+}
+
+#compsci{
+    position: relative;
+    width: 300px;
+    
+}
+
+
+#pfp{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid #555;
+}
+
+#ucsdlogo{
+    border: none;
+    float: left;
+}
+
+.aboutmeimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid #000000;
+    float: left;
+    margin-right: 60px;
+}
+
+.aboutme-row{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+
+}
