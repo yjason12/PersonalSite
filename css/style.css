@@ -27,6 +27,12 @@ body{
 
 }
 
+.navbar{
+    padding:15px 25px;
+    
+}
+
+
     
 
 h1{
@@ -104,4 +110,17 @@ a{
     text-align: left;
     line-height: 2;
 
+}
+
+
+p{
+    word-spacing: 3px;
+}
+
+.houseicon{
+    padding-right: 10px;
+}
+
+.nav-item{
+    padding: 0 5px;
 }
