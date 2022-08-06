@@ -1,18 +1,21 @@
 .top-container{
     background-color: #E4F9F5;
     position: relative;
-    padding-top: 200px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 .middle-container{
-    padding-top: 100px;
+    padding-top: 0px;
+    padding-bottom: .5rem;
+    background-color: #E4F9F5;
 }
 
 .bottom-container{
-    background-color: #66BFBF;
+    background-color: hwb(180 40% 25%);
+
     color: #40514E;
-    padding: 20px 0 10px;
+    padding: 10px 0;
 }
 
 .footer-link{
@@ -24,14 +27,16 @@ body{
     margin:0;
     text-align: center;
     font-family: 'Mochiy Pop P One', sans-serif;
+}
 
+.about-header{
+    padding-top: 50px;
 }
 
 .navbar{
     padding:15px 25px;
-    
+    background-color: #66BFBF;
 }
-
 
     
 
@@ -51,7 +56,7 @@ h2{
 }
 
 h3{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
     color: #66BFBF;
 
 }
@@ -77,6 +82,8 @@ a{
 }
 
 #compsci{
+    padding-top: 40px;
+
     position: relative;
     width: 300px;
     
@@ -114,6 +121,8 @@ a{
 
 
 p{
+    margin-top: 1rem !important;
+
     word-spacing: 3px;
 }
 
